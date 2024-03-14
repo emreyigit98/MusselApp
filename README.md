@@ -1,3 +1,3 @@
 # Mussel App
-## Product Registration Application
+## Product Registration App
 
