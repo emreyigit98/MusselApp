@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusselsApp</string>
+    <string name="open_screen">Record</string>
+    <string name="customer_screen">Customer</string>
+    <string name="mussel_screen">Mussel</string>
+    <string name="quantity_screen">Quantity</string>
+    <string name="result_screen">Result</string>
+    <string name="query_screen">Query</string>
+    <string name="order_screen">Order</string>
+    <string name="top_app_bar_name">Mussel App</string>
+</resources>
